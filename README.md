@@ -50,9 +50,5 @@ To overcome this issue, various decoupling techniques were studied and implement
 * Extend the design to 4×4 MIMO configurations.
 * Explore applications in Wi-Fi 6, IoT devices, and next-generation wireless communication systems.
 
----
 
-🎓 **B.Tech Final Year Project (2025–2026)**
-Department of Electronics and Communication Engineering
-Amrita Vishwa Vidyapeetham, Coimbatore
 
